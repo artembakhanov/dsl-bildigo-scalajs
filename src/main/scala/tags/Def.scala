@@ -1,0 +1,3 @@
+package tags
+
+trait Def
